@@ -1,0 +1,271 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(9, 2, 9);
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-family:'Roboto',sans-serif;
+    font-size: 1.25rem;
+    line-height:1.8rem
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* Utility classes */
+.small-bold-text{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.container{
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-inline: 20px;
+}
+.banner-text{
+    color: white;
+    padding: 15px 30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.top-banner{
+    background-image: url(./images/asset\ 31.png);
+    background-color: #2f87a7;
+    background-size: 40px;
+
+}
+.main-nav{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    list-style: none;
+    gap: 40px;
+    
+
+}
+
+.company-logo img{
+    width: 90px;
+    border-radius: 50%;
+}
+.company-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.nav-links{
+   flex-basis: 730px;
+    
+}
+.hover-links{
+    font-weight: 700;
+    color: rgb(21, 21, 79);
+    transition:0.2s ease-out;
+
+}
+.hover-links:hover{
+    color: #59b6d8;
+}
+.primary-button{
+    background-color: #2f87a7;
+    border-radius: 6px;
+    color: aliceblue;
+    padding: 12px 20px;
+    transition: 0,2s ease-out;
+
+}
+.primary-button:hover{
+    background-color: #40a3c7;
+    color: aliceblue;
+}
+.secondary-button{
+    border: 0.5px solid rgb(130, 130, 209);
+    border-radius: 6px;
+    color: #1e7391;
+    font-weight: 700;
+    padding: 12px 24px;
+    transition: 0.2s ease-out;
+
+}
+.secondary-button:hover{
+    border-color: #59b6d8;
+    color: #51b9df;
+}
+.header-section{
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.header-right img{
+    width: 600px;
+}.header-left{
+    max-width: 40vw;
+}
+.pon{
+   margin: 20px 0px; 
+}
+.company{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+    color: #0c4052;
+    font-size: 1.3rem;
+    font-weight: 500;
+
+}
+.company-2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.imo{
+    width: 140px;
+    height: 55px;
+}
+.companies-section{
+    margin-bottom: 50px;
+}
+.logi1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.logi2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.lol p{
+    padding: 5px 0px;
+    font-size: 1rem;
+}
+.lol h1{
+    font-size: 1.5rem;
+    padding-top: 10px ;
+}
+.lol img{
+    display: flex;
+    
+    padding-top: 15px;
+    width: 80px;
+    
+}
+
+.lol{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+  
+
+}
+.hh{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.full-moon{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.full-container .hh h1{
+    font-size: 2rem;
+}
+.features-section{
+    background-image: url(https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5af98b9f779b5a7d0a80351e_Oval%201.svg);
+ 
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    padding: 34px;
+    
+}
+.full-container{
+    padding: 30px;
+    
+}
+
+.big-features-section{
+    display: flex;
+    justify-content: center;
+
+}
+.section-img img{
+    width: 500px;
+
+}
+.natasha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+}
+.ul2{
+    display: flex;
+    justify-content: left;
+
+}
+.cta-section{
+    display: flex;
+    justify-content: ceneter;
+    background-color: #176886;
+    color: white
+}
+.participate{
+    padding: 20px;
+
+}
+.participate p{
+    font-size: 1rem;
+    padding: 10px 0;
+    color:rgb(254, 254, 254);
+    font-weight: 600;
+}
+.participate h1,h2{
+    font-size: 1.8rem;
+    padding-bottom:10px ;
+    
+}
+.li1 li{
+    color: #f1ecec;
+
+}
+.li2 li{
+    color: #f1ecec;
+
+}
+.participate2 img{
+    width: 400px;
+
+}
