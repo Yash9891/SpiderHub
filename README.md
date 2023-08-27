@@ -5,4 +5,4 @@ It is  just a basic frontend website.
 
 ![Screenshot 2023-08-27 163517](https://github.com/Yash9891/SpiderHub/assets/122812129/4bc7878c-dca9-4f66-a0bb-a612c68d2865)
 
-![Screenshot 2023-08-27 162640](https://github.com/Yash9891/SpiderHub/assets/122812129/7d2d6647-631f-4b49-b999-088159260ae6)
+![Screenshot 2023-08-27 163925](https://github.com/Yash9891/SpiderHub/assets/122812129/272c95a5-f1d5-46b4-9c10-5abdeff48263)
